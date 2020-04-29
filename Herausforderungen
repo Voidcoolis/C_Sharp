@@ -1,2 +1,11 @@
 Abschnitt 4 :
 1)  
+Erstelle ein Benutzer-Login-System, in dem sich der Benutzer zuerst registrieren und dann einloggen kann.
+Das Programm sollte überprüfen, ob der Benutzer den richtigen Benutzernamen und das richtige Passwort eingegeben hat, wenn er
+sich einloggt (also die gleichen, die er bei der Registrierung verwendet hat).
+Da wir das Speichern von Daten noch nicht abgedeckt haben, erstelle das Programm einfach so, dass das Registrieren und 
+Einloggen in der gleichen Ausführung erfolgt.
+User If-Anweisungen und Benutzereingaben und Methoden zur Lösung der Herausforderung.
+
+
+
