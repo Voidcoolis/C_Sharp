@@ -1,4 +1,12 @@
-﻿using System;
+/*Erstelle eine Anwendung mit einem Score, Highscore und einem HighscorePlayer.
+
+Erstelle eine Methode, die zwei Parameter hat, einen für die Punktzahl und einen für den Spielernamen.
+Wann immer diese Methode aufgerufen wird, sollte überprüft werden, ob die Punktzahl des Spielers höher ist als die des Highscores, wenn ja, "Neuer highscore ist + " score" und in einer anderen Zeile "Neuer Rekordhalter ist " + playerName - auf die Konsole geschrieben werden, falls nicht "Der alte highscore von " + highscore + " konnte nicht gebrochen werden und wird immer noch gehalten von " + highscorePlayer.
+Überlege auch, welche Variablen außerhalb der Methoden und welche innerhalb der Methoden benötigt werden.
+*/
+
+
+using System;
 
 namespace IfStatementHerausforderung2
 {
