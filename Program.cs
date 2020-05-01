@@ -1,0 +1,55 @@
+﻿using System;
+
+namespace HerausforderungSchleifen
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Variable die den Inhalt der Eingabe speichert
+            string input = "0";
+            // Zähler für die Anzahl der Einträge
+            int count = 0;
+            // Gesamtwert der Noten miteinander addiert
+            int total = 0;
+            // Aktuelle eingegeben Zahl als Integer
+            int currentNumber = 0;
+
+            while (input != "-1")   // wenn der Nutzer -1 angibt soll der Auftrag erledigt sein und die Schleife beendet
+            {
+                Console.WriteLine("Letzer Zahl war {0}", currentNumber);
+                Console.WriteLine("Bitte trage die nächste Note ein !");
+                Console.WriteLine("Anzahl der bisherigen Anträge ist {0}", count);
+                Console.WriteLine("Bitte gib -1 ein, sobald du den Durchschnit ermitteln lassen möchtest");
+
+                //Benutzereingabe auslesen
+                input = Console.ReadLine();
+                if (input.Equals("-1"))
+                {
+                    Console.WriteLine("-----------------------------------------------");
+                    // TO-DO : Berechne den Durchschnit und lasse es den Nutzer wissen
+                    double average = (double)total / (double)count;   // perdorim double se variablet jan ne int
+                    // quhet carsting -- (double)Total
+                    Console.WriteLine("Der Durchshnit deiner Schuler ist {0}", average);
+                }
+                if (int.TryParse(input,out currentNumber) && currentNumber >0 && currentNumber<7)  //notat ne gjermani deri ne 6
+                {
+                    total += currentNumber; 
+                }
+                else
+                {
+                    if (!(input.Equals("-1")))
+                    {
+                        Console.WriteLine("Bitte trage einen Wert zwischen 1 und 6 ein !");
+
+                    }
+                    continue;
+                }
+                // Gesamtwert geteilt duch Anzahl der Werte   
+                count++;
+            }
+            Console.ReadKey();
+
+        }
+    }
+}
