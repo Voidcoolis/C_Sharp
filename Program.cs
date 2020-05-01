@@ -1,0 +1,52 @@
+﻿using System;
+
+namespace BreakUndContinue
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int counter = 0; counter < 10; counter++)
+            {
+                Console.WriteLine(counter);
+                if (counter == 3)
+                {
+                    Console.WriteLine("Bei 3 machen wir schluss !");
+                    break;   // pa ket do kishte vazhdu deri te 9
+                }
+            }
+
+            /* Nese perdorim CONTINUE
+             * 
+            for (int counter = 0; counter < 10; counter++)
+            {
+                
+                if (counter == 3)   
+                {
+                    Console.WriteLine("Bei 3 überspringen wir");
+                    continue;   // arri te 3 , del texti qe 3 nuk del por e bojm überspringen dhe pastaj vazhdon numerimin
+                    
+                }
+                Console.WriteLine(counter);
+            }
+            */
+            for (int counter = 0; counter < 10; counter++)
+            {
+
+                if (counter %2 == 0)   // ungerade zahlen
+                {
+                    Console.WriteLine("Als nächstes kommt eine ungerade Zahl");
+                    continue;   
+
+                }
+                Console.WriteLine(counter);
+            }
+            Console.ReadKey();   
+
+        }
+
+    }
+
+}
+
+        
