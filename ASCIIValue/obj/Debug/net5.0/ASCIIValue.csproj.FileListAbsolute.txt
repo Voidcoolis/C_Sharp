@@ -1,0 +1,16 @@
+C:\Users\bonjov.hima\source\repos\ASCIIValue\bin\Debug\net5.0\ASCIIValue.exe
+C:\Users\bonjov.hima\source\repos\ASCIIValue\bin\Debug\net5.0\ASCIIValue.deps.json
+C:\Users\bonjov.hima\source\repos\ASCIIValue\bin\Debug\net5.0\ASCIIValue.runtimeconfig.json
+C:\Users\bonjov.hima\source\repos\ASCIIValue\bin\Debug\net5.0\ASCIIValue.runtimeconfig.dev.json
+C:\Users\bonjov.hima\source\repos\ASCIIValue\bin\Debug\net5.0\ASCIIValue.dll
+C:\Users\bonjov.hima\source\repos\ASCIIValue\bin\Debug\net5.0\ref\ASCIIValue.dll
+C:\Users\bonjov.hima\source\repos\ASCIIValue\bin\Debug\net5.0\ASCIIValue.pdb
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.AssemblyInfoInputs.cache
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.AssemblyInfo.cs
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.csproj.CoreCompileInputs.cache
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.dll
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ref\ASCIIValue.dll
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.pdb
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.genruntimeconfig.cache
+C:\Users\bonjov.hima\source\repos\ASCIIValue\obj\Debug\net5.0\ASCIIValue.csproj.AssemblyReference.cache
