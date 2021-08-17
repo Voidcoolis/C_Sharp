@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ASCIIValue/1.0.0": {
+        "runtime": {
+          "ASCIIValue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASCIIValue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

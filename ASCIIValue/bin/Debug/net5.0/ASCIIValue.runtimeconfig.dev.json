@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bonjov.hima\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bonjov.hima\\.nuget\\packages"
+    ]
+  }
+}
